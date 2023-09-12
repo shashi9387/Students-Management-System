@@ -4,13 +4,13 @@ It is a console-based Java Application which helps in managing course enrollment
 
 The Application does the following:
 
-Asks the user how many new students will be added to the database
+*Asks the user how many new students will be added to the database
 
-The user is prompted to enter the name and year for each students
+*The user is prompted to enter the name and year for each students
 
-Every student gets a 5-digit unique ID, with the first number being their grade level
+*Every student gets a 5-digit unique ID, with the first number being their grade level
 
-A student can enroll in multiple courses like:
+*A student can enroll in multiple courses like:
 
 Java,
 
