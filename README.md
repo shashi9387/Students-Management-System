@@ -26,4 +26,4 @@ The Application does the following:
 
 - The student can be able to view their balance and pay the tuition amount
 
-- We can see the status of the student, we can see their name, ID, courses enrolled and balance at the end
+- We can see the status of the student, name, ID, courses enrolled and balance at the end
